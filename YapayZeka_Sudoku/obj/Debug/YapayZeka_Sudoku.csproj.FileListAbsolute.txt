@@ -1,0 +1,18 @@
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.exe.config
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.exe
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.pdb
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.csprojResolveAssemblyReference.cache
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.Properties.Resources.resources
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.csproj.GenerateResource.Cache
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.exe
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.pdb
+c:\users\cihan_sf2ak5t\documents\visual studio 2013\Projects\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.Form1.resources
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.exe.config
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.exe
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.pdb
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.exe
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\bin\Debug\YapayZeka_Sudoku.pdb
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.Form1.resources
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.Properties.Resources.resources
+C:\Users\cihan_sf2ak5t\Desktop\YapayZeka_Sudoku\YapayZeka_Sudoku\obj\Debug\YapayZeka_Sudoku.csproj.GenerateResource.Cache
